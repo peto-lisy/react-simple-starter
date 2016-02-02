@@ -1,0 +1,12 @@
+# node related trash
+#
+npm-debug.log
+node_modules
+
+# InteliJ/Webstorm/...
+#
+.idea
+
+# build folders
+#
+dist
